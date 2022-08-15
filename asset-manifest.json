@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sbk/static/css/main.7f28e53b.css",
+    "main.js": "/sbk/static/js/main.828e0302.js",
+    "static/media/two-riders.jpg": "/sbk/static/media/two-riders.80b5fb8278b6f9e5e0e8.jpg",
+    "static/media/sbk-logo3.png": "/sbk/static/media/sbk-logo3.6f0fdc83d6d7118bcc55.png",
+    "static/media/dirtBikeDrift.jpg": "/sbk/static/media/dirtBikeDrift.f5f3885672f3b8230da9.jpg",
+    "static/media/crew1.jpg": "/sbk/static/media/crew1.cd141074f0d2bbf6ca0d.jpg",
+    "static/media/image14.jpg": "/sbk/static/media/image14.cf147e02b0fc4c572d8a.jpg",
+    "index.html": "/sbk/index.html",
+    "main.7f28e53b.css.map": "/sbk/static/css/main.7f28e53b.css.map",
+    "main.828e0302.js.map": "/sbk/static/js/main.828e0302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f28e53b.css",
+    "static/js/main.828e0302.js"
+  ]
+}
